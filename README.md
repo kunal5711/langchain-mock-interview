@@ -19,7 +19,7 @@ Upload your resume, specify a job role, and experience a personalized, resume-dr
 
 | Upload Resume & Enter Role                             | Chat Interview                                      |
 | ------------------------------------------------------ | --------------------------------------------------- |
-| ![Home](r"/Images/home.png") | ![Chat Screen](r"/Images/chat.png") |
+| ![Home]("/Images/home.png") | ![Chat Screen]("/Images/chat.png") |
 
 ---
 
